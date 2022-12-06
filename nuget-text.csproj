@@ -13,8 +13,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="elik.text" Version="4.3.0" />
-    <PackageReference Include="gal.test" Version="0.0.1" />
-    <PackageReference Include="does.not" Version="0.0.1" />
+    <PackageReference Include="AngieGal" Version="1.0.0" />
+    <PackageReference Include="Nancy" Version="2.0" />
   </ItemGroup>
 </Project>
