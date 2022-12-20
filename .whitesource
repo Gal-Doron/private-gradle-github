@@ -14,7 +14,7 @@
   },
   "hostRules": [
     {   
-        "matchHost": "https://github.com/aruhstows/my-private-NuGet-packages",
+        "matchHost": "https://nuget.pkg.github.com/aruhstows/index.json",
         "hostType": "nuget",
         "userName": "aruhstows",
         "encrypted": {
