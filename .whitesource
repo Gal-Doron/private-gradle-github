@@ -14,8 +14,8 @@
   },
   "hostRules": [
     {   
-        "matchHost": "https://nuget.pkg.github.com/aruhstows/index.json",
-        "hostType": "nuget",
+        "matchHost": "https://maven.pkg.github.com/aruhstows/my-private-Maven-packages",
+        "hostType": "maven",
         "userName": "aruhstows",
         "encrypted": {
            "token": "wcBMA8xOaBJvzJNbAQf8DMDB+dfqNEleddrUeVCztmaStfTUZLsNB4N+S4P5LJphJYBdE/CnxQ56W4vcBs4bZmvrha//89MoK4uoZtDroltXXxTR7tvKEbqu0SXTl69hBSdoQ78FKymxnw+cchARK4pCthSnwsoBMyRXxu4l4itJdsHdTl4PMU28eo+ickp6aEidQZW046QgdrSPu8LhTNDwSpm5Q+NujT4TLzKwfW82guGWri45A5/ItjoDgazCTJkomlpz+Skhs0MQQRFFLVQ70YebjWsd3NuSFmwMVSxxryWgoTwQpgq8cuAn3D54hwD3vVfA1YfGaHhhYEBH1ylwDQf3bUyQutP0Op7I1dJ4AVK4yr7ftGe8D00tRXmluZTz4RVi2cFDNYAN6T3f1/IHmOcPsKBOqDUqXb74cGOmVvCImIRSnDjBY3FiEyWWUXM3JaRCB9UpY7XUIgsjckTf2utDhOIfgVtdD9QPH48aYX3T2EyZP7Lo5VpWU6hOpqCyr9mhBhyc"
